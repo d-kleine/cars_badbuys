@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# kaggle project settings
+Carvana_Data_Dictionary.txt
+training.csv
+test.csv
