@@ -133,3 +133,6 @@ dmypy.json
 Carvana_Data_Dictionary.txt
 training.csv
 test.csv
+
+# vs code
+.vscode
